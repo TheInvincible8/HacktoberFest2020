@@ -619,3 +619,7 @@ About: Student of Bio Technology <br/>
 Place: West Jakarta, Indonesia<br/>
 About: Student of Software Enginering <br/>
 </br>
+Name: [Pankaj Dadwal](https://github.com/TheInvincible8)<br/>
+Place: Punjab, India<br/>
+About: Student of Computer Science & Engineering <br/>
+</br>
